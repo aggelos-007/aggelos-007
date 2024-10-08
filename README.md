@@ -1,4 +1,5 @@
 # Hello, I am Aggelos👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1S8TNI)
 ### My Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/637648484979441706?idleMessage=Studying&hideBadges=true)](https://discord.com/users/637648484979441706)
 ### My GitHub Stats
